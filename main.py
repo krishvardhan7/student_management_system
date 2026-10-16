@@ -54,7 +54,7 @@ def update_student(student_id : int, student : Student):
     return {"message" : "Id not found"}
 
 # delete a student info
-@app.delete("/delete_student/{student_id}")
+@app.delete("/delete_info/{student_id}")
 def delete_student(student_id : int):
     students = read_students()
     for s in students:

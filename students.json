@@ -1,0 +1,7 @@
+[
+    {"id" : 1,"name":"a","dept":"python"},
+    {"id" : 2,"name":"b","dept":"c"},
+    {"id" : 3, "name":"c","dept":"java"},
+    {"id" : 4, "name":"d","dept":"python"},
+    {"id" : 5, "name":"e","dept":"c"}
+]
